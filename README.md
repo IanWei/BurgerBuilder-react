@@ -10,6 +10,7 @@ Create an account to build your own burger.
 Submit your order by filling out the form.
 
 - Host the app by Firebase
+- Authenticate an account via Firebase api
 - Access the database in Firebase by using Redux-Thunk
 - Control the validation state by Redux
 - Use higher order component to intercept the error message between components
